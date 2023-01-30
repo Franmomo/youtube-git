@@ -8,4 +8,8 @@
 6.- git log ==> muestra el log de las acciones realizadas
 7.- git commit -- amend ==> arregla el ultimo commit ejecutado
 8.- git checkout -b (crea una rama) rama-heroes   (nunca trabajar en la rama MASTER !!!) 
+9.- git branch ==> muestra las ramas actuales
+10. git checkout master ==> pasa a la rama master
+
+
 
