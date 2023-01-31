@@ -15,5 +15,6 @@
     git remote add origin https://github.com/Franmomo/youtube-git.git
     git branch -M main
     git push -u origin main
-13. git push    
+13. git push ==> para subir actualizaciones sobre un proyecto ya cargado.    
+14. git commit -am "" ==> para realizar a la vez los comandos git add . + git commit -m ""
 
